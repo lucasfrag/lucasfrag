@@ -14,19 +14,21 @@
   &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   &nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  &nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  &nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
    &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   &nbsp;&nbsp;
