@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfrag&hide=html&layout=compact&langs_count=6" />
 </a>
 
-## Skills
+## Skills 👨‍💻
 <p align="left">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   &nbsp;&nbsp;
