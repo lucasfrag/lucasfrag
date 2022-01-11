@@ -19,7 +19,7 @@
 <i>Course names are in Portuguese to maintain name integrity.</i>
 
 ## 👨🏻‍💻 Skills 
-<p align="left">
+<p align="center">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
