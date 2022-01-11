@@ -35,6 +35,9 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">  
 </p>
 
+## 📚 Articles
+* [Medium](https://medium.com/@ti.lucasfraga")
+
 ## 📲 Contact 
 <p>
 <a href="mailto:ti.lucasfraga@gmail.com"><img src="https://camo.githubusercontent.com/30f2ec732716a5887b40a62aa5c463269bcd1078b9ca20cd16f5e71a5ede48b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4431343833363f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6d6174657573617261756a6f39393640676d61696c2e636f6d" style="max-width:100%;"></a>&nbsp;&nbsp;
