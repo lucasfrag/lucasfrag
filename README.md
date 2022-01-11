@@ -35,8 +35,9 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">  
 </p>
 
-## 📚 Articles
+## 📚 Articles & Videos
 * [Medium](https://medium.com/@ti.lucasfraga)
+* [YouTube Channel](https://www.youtube.com/channel/UC7Gcil6fundXaQwKWc3MDCQ)
 
 ## 📲 Contact 
 <p>
