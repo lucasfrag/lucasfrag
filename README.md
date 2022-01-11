@@ -36,7 +36,7 @@
 </p>
 
 ## 📚 Articles
-* [Medium](https://medium.com/@ti.lucasfraga")
+* [Medium](https://medium.com/@ti.lucasfraga)
 
 ## 📲 Contact 
 <p>
