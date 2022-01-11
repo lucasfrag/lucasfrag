@@ -16,7 +16,7 @@
 * Especialização em Docência do Ensino Superior e Metodologias Ativas de Aprendizagem <i>(in progress...)</i>
 * Especialização em Docência para Educação Profissional <i>(in progress...)</i>
 
-<i>Course names are in Portuguese to maintain name integrity.</i>
+<i>*** Course names are in Portuguese to maintain name integrity.</i>
 
 ## 👨🏻‍💻 Skills 
 <p align="center">
