@@ -1,4 +1,4 @@
-## Hello, Friend 👋
+## 👋 Hello, Friend
 <p>Teacher, Developer, Computer Technician, Enthusiast on Open Source, Gaming and Cybersecurity.</p>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
