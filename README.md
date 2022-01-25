@@ -8,18 +8,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfrag&theme=tokyonight&hide=html&layout=compact&langs_count=6" />
 </a>
 
-## 🎓 Education
-* Técnico em Informática ✔️
-* Tecnólogo em Análise e Desenvolvimento de Sistemas ✔️
-* MBA em Segurança da Informação ✔️
-* Especialização em Projetos de Aplicativos Móveis Multiplataforma <i>(in progress... 🕒)</i>
-* Especialização em Docência do Ensino Superior e Metodologias Ativas de Aprendizagem <i>(in progress... 🕒)</i>
-* Especialização em Docência para Educação Profissional <i>(in progress... 🕒)</i>
-
-<i>*** Course titles are in Portuguese to maintain the integrity of the institutions' original course names.</i>
-
 ## 👨🏻‍💻 Skills 
-<p align="center">
+<p align="left">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
