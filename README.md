@@ -1,3 +1,7 @@
+<div style="display: inline_block"><br>
+  <img align="right" height="150" src="https://64.media.tumblr.com/1be00a24aa31832b46a7633ae4e3a46a/tumblr_n320f2gHjd1sxws2ko1_500.gif">
+</div>
+
 ## 👋 Hello, Friend
 <p>Teacher, Developer, Computer Technician, Enthusiast on Open Source, Gaming and Cybersecurity.</p>
 
@@ -38,14 +42,12 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">  
 </p>
 
+
+
 ## 📚 Articles & Videos
 * [Medium](https://medium.com/@ti.lucasfraga)
 * [YouTube Channel](https://www.youtube.com/channel/UC7Gcil6fundXaQwKWc3MDCQ)
 
-
-<div style="display: inline_block"><br>
-  <img align="right" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/1be00a24aa31832b46a7633ae4e3a46a/tumblr_n320f2gHjd1sxws2ko1_500.gif">
-</div>
 
 ## 📲 Contact 
 <p>
