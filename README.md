@@ -3,7 +3,7 @@
 </div>
 
 ## 👋 Hello, Friend
-<p>Teacher, Developer, Computer Technician, Enthusiast on Open Source, A.I, Gaming and Cybersecurity.</p>
+<p>Teacher, Developer, Computer Technician, Enthusiast on A.I, Gaming and Cybersecurity.</p>
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
