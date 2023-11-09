@@ -59,7 +59,7 @@
 
 ## 🎖️ Badges 
 <a href="https://www.credly.com/badges/b40236ee-7689-4a64-9297-78e695286f69/public_url">
-  <img height="120" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+  <img height="100" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
 </a>
 <!--
 ![Snake animation](https://github.com/lucasfrag/lucasfrag/blob/output/github-contribution-grid-snake.svg)-->
