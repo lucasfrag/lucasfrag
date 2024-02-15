@@ -3,7 +3,17 @@
 </div>
 
 ## 👋 Hello, Friend
-<p>Teacher, Developer, Computer Technician, Enthusiast on A.I, Gaming and Cybersecurity.</p>
+Me chamo **Lucas Fraga** e seja bem-vindo ao meu GitHub.
+
+## 📚 Formação
+- Técnico em Informática;<br>
+- Tecnólogo em Análise e Desenvolvimento de Sistemas;<br>
+- MBA em Segurança da Informação;<br>
+- Especialização em Projetos de Aplicativos Móveis Multiplataforma;<br>
+- Especialização em Docência para Educação Profissional;<br>
+- Especialização em Docência do Ensino Superior e Metodologias Ativas de Aprendizado;<br>
+- Especialização em Inteligência Artificial.<br>
+<br>
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfrag&theme=tokyonight&hide=html&layout=compact&langs_count=6" />
 </a>-->
 
-## 👨🏻‍💻 Skills 
+## 👨🏻‍💻 Habilidades 
 <p align="left">
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png">
   &nbsp;&nbsp;
@@ -21,7 +31,7 @@
   &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;
@@ -29,7 +39,7 @@
   &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   &nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   &nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   &nbsp;&nbsp;
@@ -47,7 +57,7 @@
 * [YouTube Channel](https://www.youtube.com/channel/UC7Gcil6fundXaQwKWc3MDCQ)
 -->
 
-##  Contact 
+## 🔗 Links 
 <p>
 <a href="mailto:ti.lucasfraga@gmail.com"><img src="https://camo.githubusercontent.com/3f3a28cce40a1f01e5420a4d35b62542b0d78e38f03fbb75746873b8b68a58df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" height="30"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lucasfrag/" rel="nofollow"><img src="https://camo.githubusercontent.com/1fb28218088b45b065a7445cafa9d5f027a657f17cb4f8b3a9472b1f59952949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="30"></a>&nbsp;&nbsp;
@@ -57,7 +67,7 @@
 
 </p>
 
-## 🎖️ Badges 
+## 🎖️ Certificações 
 <a href="https://www.credly.com/badges/b40236ee-7689-4a64-9297-78e695286f69/public_url">
   <img height="100" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
 </a>
