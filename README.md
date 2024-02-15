@@ -5,7 +5,7 @@
 ## 👋 Hello, Friend
 Me chamo **Lucas Fraga** e seja bem-vindo ao meu GitHub.
 
-## 📚 Formação
+## 📚 Formação Acadêmica
 - Técnico em Informática;<br>
 - Tecnólogo em Análise e Desenvolvimento de Sistemas;<br>
 - MBA em Segurança da Informação;<br>
