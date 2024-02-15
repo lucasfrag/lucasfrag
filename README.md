@@ -13,7 +13,7 @@ Me chamo **Lucas Fraga** e seja bem-vindo ao meu GitHub.
 - Especialização em Docência para Educação Profissional;<br>
 - Especialização em Docência do Ensino Superior e Metodologias Ativas de Aprendizado;<br>
 - Especialização em Inteligência Artificial.<br>
-<br>
+
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
