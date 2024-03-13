@@ -70,6 +70,6 @@ Me chamo **Lucas Fraga** e seja bem-vindo ao meu GitHub.
 ## 🎖️ Certificações 
 <a href="https://www.credly.com/badges/b40236ee-7689-4a64-9297-78e695286f69/public_url">
   <img height="100" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
-</a>
+</a> 
 <!--
 ![Snake animation](https://github.com/lucasfrag/lucasfrag/blob/output/github-contribution-grid-snake.svg)-->
