@@ -70,8 +70,7 @@ Me chamo **Lucas Fraga** e seja bem-vindo ao meu GitHub.
 </p>
 
 ## 🎖️ Certificações 
-<a href="https://www.credly.com/badges/b40236ee-7689-4a64-9297-78e695286f69/public_url">
-  <img height="80" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
-</a> 
+<a href="https://www.credly.com/badges/b40236ee-7689-4a64-9297-78e695286f69/public_url"><img height="80" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>&nbsp;&nbsp;
+<a href="https://skillshop.credential.net/dc72ff62-6dba-4482-94cb-b4664ed98612"><img height="80" src="https://images.squarespace-cdn.com/content/v1/601eeba67dc49320d38a70ce/b7ff3bb8-50d5-44c0-acc2-4bef993a1cab/google+ai+cert.png"></a> 
 <!--
 ![Snake animation](https://github.com/lucasfrag/lucasfrag/blob/output/github-contribution-grid-snake.svg)-->
