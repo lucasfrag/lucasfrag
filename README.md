@@ -3,16 +3,8 @@
 </div>
 
 ## 👋 Hello, Friend
-Me chamo **Lucas Fraga** e seja bem-vindo ao meu GitHub.
+<p>Teacher, Developer, Computer Technician, Enthusiast on A.I, Gaming and Cybersecurity.</p>
 
-## 📚 Formação Acadêmica
-- Técnico em Informática;<br>
-- Tecnólogo em Análise e Desenvolvimento de Sistemas;<br>
-- MBA em Segurança da Informação;<br>
-- Especialização em Projetos de Aplicativos Móveis Multiplataforma;<br>
-- Especialização em Docência para Educação Profissional;<br>
-- Especialização em Docência do Ensino Superior e Metodologias Ativas de Aprendizado;<br>
-- Especialização em Inteligência Artificial.<br>
 
 
 <!--
@@ -23,7 +15,7 @@ Me chamo **Lucas Fraga** e seja bem-vindo ao meu GitHub.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfrag&theme=tokyonight&hide=html&layout=compact&langs_count=6" />
 </a>-->
 
-## 👨🏻‍💻 Habilidades 
+## 👨🏻‍💻 Skills 
 <p align="left">
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png">
   &nbsp;&nbsp;
@@ -69,7 +61,7 @@ Me chamo **Lucas Fraga** e seja bem-vindo ao meu GitHub.
 
 </p>
 
-## 🎖️ Certificações 
+## 🎖️ Badges  
 <a href="https://www.credly.com/badges/b40236ee-7689-4a64-9297-78e695286f69/public_url"><img height="80" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>&nbsp;&nbsp;
 <a href="https://skillshop.credential.net/dc72ff62-6dba-4482-94cb-b4664ed98612"><img height="80" src="https://images.squarespace-cdn.com/content/v1/601eeba67dc49320d38a70ce/b7ff3bb8-50d5-44c0-acc2-4bef993a1cab/google+ai+cert.png"></a> 
 <!--
