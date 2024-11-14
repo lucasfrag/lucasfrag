@@ -63,7 +63,9 @@
 
 ## 🎖️ Badges  
 <a href="https://www.credly.com/badges/b40236ee-7689-4a64-9297-78e695286f69/public_url"><img height="80" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/65e84ccc-fe07-4155-8bbb-5e18afcf75ab/public_url"><img height="80" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"></a> &nbsp;&nbsp;
 <a href="https://skillshop.credential.net/dc72ff62-6dba-4482-94cb-b4664ed98612"><img height="80" src="https://images.squarespace-cdn.com/content/v1/601eeba67dc49320d38a70ce/b7ff3bb8-50d5-44c0-acc2-4bef993a1cab/google+ai+cert.png"></a> &nbsp;&nbsp;
 <a href="https://www.credly.com/badges/ce1c05e4-8700-475e-ba1f-fa772798480e/public_url"><img height="80" src="https://images.credly.com/size/340x340/images/4025d35a-e8cd-43fb-92a1-7babf0221527/blob"></a> &nbsp;&nbsp;
+
 <!--
 ![Snake animation](https://github.com/lucasfrag/lucasfrag/blob/output/github-contribution-grid-snake.svg)-->
