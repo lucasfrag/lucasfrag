@@ -2,7 +2,7 @@
 I am a **Systems Developer** and **Teacher** at **Senac EAD**, passionate about technology and teaching. I have experience in various languages and technologies, including **Java, C#, Python and PHP**. Currently, 
 I am a student of the **Master's degree in Computer Science** with an emphasis on **Artificial Intelligence** at **PUC-RS**.
 
-<img src="digimon.gif" height="200" align="right">
+<img src="digimon.gif" height="180" align="right">
 
 
 ## Skills
