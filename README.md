@@ -22,7 +22,7 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <p align="center">
-  <img src="digimon.gif">
+  <img src="digimon.gif" height="200">
 </p>
 <!--
 ## Links
