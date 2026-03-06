@@ -2,6 +2,9 @@
 I am a **Systems Developer** and **Teacher** at **Senac EAD**, passionate about technology and teaching. I have experience in various languages and technologies, including **Java, C#, Python and PHP**. Currently, 
 I am a student of the **Master's degree in Computer Science** with an emphasis on **Artificial Intelligence** at **PUC-RS**.
 
+<img src="digimon.gif" height="200" align="right">
+
+
 ## Skills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,9 +24,8 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <img src="digimon.gif" height="200">
-</p>
+
+
 <!--
 ## Links
 <a href="mailto:ti.lucasfraga@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
