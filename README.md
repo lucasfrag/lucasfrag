@@ -36,10 +36,3 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
 <!--<a href="https://medium.com/@lucasfrag"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>-->
 
 <!--<a href="https://github.com/lucasfrag"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
--->
-
-
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=lucasfrag&color=0e75b6&style=flat" />
-</p>
