@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=lucasfrag&color=0e75b6&style=flat" />
+</p>
+
 # Hello! I'm Lucas Fraga 👋
 I am a **Systems Developer** and **Teacher** at **Senac EAD**, passionate about technology and teaching. I have experience in various languages and technologies, including **Java, C#, Python and PHP**. Currently, 
 I am a student of the **Master's degree in Computer Science** with an emphasis on **Artificial Intelligence** at **PUC-RS**.
@@ -5,6 +9,7 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
 ## Skills
 
 <img src="digimon.gif" height="160" align="right">
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
