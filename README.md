@@ -1,6 +1,6 @@
 <h1>
   Hello! I'm Lucas Fraga 👋
-  <img align="right" src="https://komarev.com/ghpvc/?username=lucasfrag&color=green&style=flat-square" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=lucasfrag&color=blue&style=flat-square" />
   <img align="right" src="https://img.shields.io/github/stars/lucasfrag?affiliations=OWNER&style=social" />
 </h1>
 
