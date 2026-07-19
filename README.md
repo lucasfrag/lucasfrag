@@ -1,7 +1,5 @@
 <h1>
   Hello! I'm Lucas Fraga 👋
-  <img align="right" src="https://komarev.com/ghpvc/?username=lucasfrag&color=blue&style=flat-square" /> 
-  <!--<img align="right" src="https://img.shields.io/github/stars/lucasfrag?affiliations=OWNER&style=social" />-->
 </h1>
 
 I am a **Systems Developer** and **Teacher** at **Senac EAD**, passionate about technology and teaching. I have experience in various languages and technologies, including **Java, C#, Python and PHP**. Currently, 
