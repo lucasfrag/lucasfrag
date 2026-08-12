@@ -28,11 +28,31 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+## Links
+
+<p align="left">
+  <a href="mailto:ti.lucasfraga@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="45" alt="Gmail">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucasfrag/">
+    <img src="https://images.icon-icons.com/2429/PNG/512/linkedin_logo_icon_147268.png" height="55" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="SEU_LATTES">
+    <img src="https://lh5.googleusercontent.com/proxy/4d6-dVOcMrp7HoU9t-bhgfgoqSLWbcgosoSMPp956YzTQzTfRfFDiUXR3hssFIJDTEe0ozmcq4wv6E7AiZn7-kNEwVvhboggb9gHgMMh-webTRvzg8ndDb7Sffpa9N2N4ThiQboH11-KkcPt_C4Qj0ZXxeEREqmIp7k" height="45" alt="Lattes">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="SEU_GOOGLE_SCHOLAR">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/3840px-Google_Scholar_logo.svg.png" height="45" alt="Google Scholar">
+  </a>
+</p>
+
 <!--
 ## Links
 <a href="mailto:ti.lucasfraga@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/lucasfrag/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.youtube.com/@prof.lucasfraga"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-<!--<a href="https://medium.com/@lucasfrag"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>-->
+<!--<a href="https://www.youtube.com/@prof.lucasfraga"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://medium.com/@lucasfrag"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
-<!--<a href="https://github.com/lucasfrag"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/lucasfrag"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
