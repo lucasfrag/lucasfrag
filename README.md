@@ -32,20 +32,35 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
 
 <p align="left">
   <a href="mailto:ti.lucasfraga@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="45" alt="Gmail">
+    <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="35" alt="Gmail">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://scholar.google.com/citations?user=q0yXzC0AAAAJ&hl=pt-BR">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/3840px-Google_Scholar_logo.svg.png" height="35" alt="Google Scholar">
+  </a>
+  &nbsp;&nbsp;&nbsp;  
+  
+  <a href="http://lattes.cnpq.br/4680421690073859">
+    <img src="https://lh5.googleusercontent.com/proxy/4d6-dVOcMrp7HoU9t-bhgfgoqSLWbcgosoSMPp956YzTQzTfRfFDiUXR3hssFIJDTEe0ozmcq4wv6E7AiZn7-kNEwVvhboggb9gHgMMh-webTRvzg8ndDb7Sffpa9N2N4ThiQboH11-KkcPt_C4Qj0ZXxeEREqmIp7k" height="35" alt="Lattes">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/lucasfrag">
+    <img src="https://static.vecteezy.com/system/resources/previews/074/690/083/non_2x/github-icon-symbol-mark-img-illustration-free-png.png" height="35" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://scholar.google.com/citations?user=q0yXzC0AAAAJ&hl=pt-BR">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670098.png" height="35" alt="Medium">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/lucasfrag/">
-    <img src="https://images.icon-icons.com/2429/PNG/512/linkedin_logo_icon_147268.png" height="55" alt="LinkedIn">
+    <img src="https://images.icon-icons.com/2429/PNG/512/linkedin_logo_icon_147268.png" height="35" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="SEU_LATTES">
-    <img src="https://lh5.googleusercontent.com/proxy/4d6-dVOcMrp7HoU9t-bhgfgoqSLWbcgosoSMPp956YzTQzTfRfFDiUXR3hssFIJDTEe0ozmcq4wv6E7AiZn7-kNEwVvhboggb9gHgMMh-webTRvzg8ndDb7Sffpa9N2N4ThiQboH11-KkcPt_C4Qj0ZXxeEREqmIp7k" height="45" alt="Lattes">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="SEU_GOOGLE_SCHOLAR">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/3840px-Google_Scholar_logo.svg.png" height="45" alt="Google Scholar">
-  </a>
+  &nbsp;&nbsp;&nbsp;
+
 </p>
 
 <!--
