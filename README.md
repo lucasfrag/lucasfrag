@@ -43,9 +43,13 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
     <img src="https://lh5.googleusercontent.com/proxy/4d6-dVOcMrp7HoU9t-bhgfgoqSLWbcgosoSMPp956YzTQzTfRfFDiUXR3hssFIJDTEe0ozmcq4wv6E7AiZn7-kNEwVvhboggb9gHgMMh-webTRvzg8ndDb7Sffpa9N2N4ThiQboH11-KkcPt_C4Qj0ZXxeEREqmIp7k" height="35" alt="Lattes"></a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://scholar.google.com/citations?user=q0yXzC0AAAAJ&hl=pt-BR">
+  <a href="https://medium.com/@lucasfrag">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670098.png" height="35" alt="Medium"></a>
   &nbsp;&nbsp;&nbsp;
+<!--
+  <a href="https://www.youtube.com/@prof.lucasfraga">
+    <img src="https://cdn-icons-png.magnific.com/256/15707/15707874.png?semt=ais_white_label" height="35" alt="YouTube"></a>
+  &nbsp;&nbsp;&nbsp;-->
 
   <a href="https://github.com/lucasfrag">
     <img src="https://static.vecteezy.com/system/resources/previews/074/690/083/non_2x/github-icon-symbol-mark-img-illustration-free-png.png" height="35" alt="GitHub"></a>
@@ -54,6 +58,7 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
   <a href="https://www.linkedin.com/in/lucasfrag/">
     <img src="https://images.icon-icons.com/2429/PNG/512/linkedin_logo_icon_147268.png" height="35" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;
+
 
 
 
