@@ -49,6 +49,10 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
     <img src="https://images.icon-icons.com/2429/PNG/512/linkedin_logo_icon_147268.png" height="35" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;
 
+  <a href="https://huggingface.co/lucasfrag" target="_blank">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Hf-logo-without-title.svg/3840px-Hf-logo-without-title.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="35" alt="HuggingFace"></a>
+  &nbsp;&nbsp;&nbsp;  
+
   <a href="https://github.com/lucasfrag" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/074/690/083/non_2x/github-icon-symbol-mark-img-illustration-free-png.png" height="35" alt="GitHub"></a>
   &nbsp;&nbsp;&nbsp;
