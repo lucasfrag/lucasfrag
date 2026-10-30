@@ -61,8 +61,8 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
     <img src="https://lh5.googleusercontent.com/proxy/4d6-dVOcMrp7HoU9t-bhgfgoqSLWbcgosoSMPp956YzTQzTfRfFDiUXR3hssFIJDTEe0ozmcq4wv6E7AiZn7-kNEwVvhboggb9gHgMMh-webTRvzg8ndDb7Sffpa9N2N4ThiQboH11-KkcPt_C4Qj0ZXxeEREqmIp7k" height="35" alt="Lattes"></a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://medium.com/@lucasfrag" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670098.png" height="35" alt="Medium"></a>
+  <a href="https://www.credly.com/users/lucas-fraga" target="_blank">
+    <img src="https://www.svgrepo.com/show/331358/credly.svg" height="35" alt="Credly"></a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.youtube.com/@prof.lucasfraga">
