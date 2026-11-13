@@ -62,7 +62,7 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.credly.com/users/lucas-fraga" target="_blank">
-    <img src="https://www.svgrepo.com/show/331358/credly.svg" height="35" alt="Credly"></a>
+    <img src="https://cdn.credly.com/assets/structure/logo-c48f2e5e3a483bb2b97d000b9ac94ffc8e194377f104c6a80aaf60c18c8a9d13.svg" height="35" alt="Credly"></a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.youtube.com/@prof.lucasfraga">
