@@ -61,14 +61,13 @@ I am a student of the **Master's degree in Computer Science** with an emphasis o
     <img src="https://lh5.googleusercontent.com/proxy/4d6-dVOcMrp7HoU9t-bhgfgoqSLWbcgosoSMPp956YzTQzTfRfFDiUXR3hssFIJDTEe0ozmcq4wv6E7AiZn7-kNEwVvhboggb9gHgMMh-webTRvzg8ndDb7Sffpa9N2N4ThiQboH11-KkcPt_C4Qj0ZXxeEREqmIp7k" height="35" alt="Lattes"></a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.credly.com/users/lucas-fraga" target="_blank">
-    <img src="https://cdn.credly.com/assets/structure/logo-c48f2e5e3a483bb2b97d000b9ac94ffc8e194377f104c6a80aaf60c18c8a9d13.svg" height="35" alt="Credly"></a>
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://www.youtube.com/@prof.lucasfraga">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/YouTube_social_red_circle_%282024%29.svg/960px-YouTube_social_red_circle_%282024%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="35" alt="YouTube"></a>
   &nbsp;&nbsp;&nbsp;
 
+  <a href="https://www.credly.com/users/lucas-fraga" target="_blank">
+    <img src="https://cdn.credly.com/assets/structure/logo-c48f2e5e3a483bb2b97d000b9ac94ffc8e194377f104c6a80aaf60c18c8a9d13.svg" height="35" alt="Credly"></a>
+  &nbsp;&nbsp;&nbsp;
 
 
 
